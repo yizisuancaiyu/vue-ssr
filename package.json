@@ -47,7 +47,7 @@
     "isomorphic-fetch": "^2.2.1",
     "iview": "^3.4.1",
     "jmfdplayer": "1.25.5",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "lru-cache": "^5.1.1",
     "mockjs": "^1.0.1-beta3",
     "promise-polyfill": "8.1.0",
