@@ -43,7 +43,7 @@
     "emoji-mart-vue": "^2.6.6",
     "eslint-plugin-node": "^8.0.0",
     "eslint-plugin-vue": "^5.2.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "isomorphic-fetch": "^2.2.1",
     "iview": "^3.4.1",
     "jmfdplayer": "1.25.5",
